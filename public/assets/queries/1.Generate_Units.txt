@@ -1,0 +1,4 @@
+Generate independent programming units based on the specified criteria, where each unit is self-contained and capable of guiding the user to develop the finished product on its own. These units should cover different aspects or features of the final product, but each must be complete enough to stand alone and achieve the product independently.
+
+Input: { "categories": "[software development]", "stack": "[python]", "difficulty": "basic", "product": "calculator" }
+Output: { "units": [{"title": "<unit title>", "concepts": ["<concept to develop a feature of the calculator>", "<another concept>"], "prerequisites": ["<prerequisite for this unit>", "<another prerequisite>"], "objective": "Develop a complete <feature of the calculator> that functions independently."}]}

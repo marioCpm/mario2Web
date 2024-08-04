@@ -1,0 +1,16 @@
+[
+    {"id": 1, "name": "Zarlox", "3dpath": "assets/3dmodels/test1/alien1.glb", "2dpath": "", "description": "A mysterious alien figure."},
+    {"id": 2, "name": "Glimmer", "3dpath": "assets/3dmodels/test1/frog1.glb", "2dpath": "", "description": "A cute green frog."},
+    {"id": 3, "name": "Ribbit", "3dpath": "assets/3dmodels/test1/new2.glb", "2dpath": "", "description": "A vibrant frog with a playful spirit."},
+    {"id": 4, "name": "Valor", "3dpath": "assets/3dmodels/test1/knight1.glb", "2dpath": "", "description": "A brave knight armored for battle."},
+    {"id": 5, "name": "Mystic", "3dpath": "assets/3dmodels/test1/mage1.glb", "2dpath": "", "description": "A mage wielding ancient magical powers."},
+    {"id": 6, "name": "Grimm", "3dpath": "assets/3dmodels/test1/monster1.glb", "2dpath": "", "description": "A fearsome monster lurking in the shadows."},
+    {"id": 7, "name": "Fang", "3dpath": "assets/3dmodels/test1/new4.glb", "2dpath": "", "description": "A creature with sharp teeth and a ferocious appetite."},
+    {"id": 8, "name": "Snarl", "3dpath": "assets/3dmodels/test1/monster3.glb", "2dpath": "", "description": "A monstrous being with a terrifying growl."},
+    {"id": 9, "name": "Howler", "3dpath": "assets/3dmodels/test1/new3.glb", "2dpath": "", "description": "A beast known for its eerie howls."},
+    {"id": 10, "name": "Slither", "3dpath": "assets/3dmodels/test1/monster5.glb", "2dpath": "", "description": "A serpentine monster that moves stealthily."},
+    {"id": 11, "name": "Mariner", "3dpath": "assets/3dmodels/test1/pirate1.glb", "2dpath": "", "description": "A roguish pirate from the high seas."},
+    {"id": 12, "name": "Buccaneer", "3dpath": "assets/3dmodels/test1/pirate3.glb", "2dpath": "", "description": "A daring pirate feared across the oceans."},
+    {"id": 13, "name": "Shelldon", "3dpath": "assets/3dmodels/test1/turtle1.glb", "2dpath": "", "description": "A wise old turtle with a tough shell."},
+    {"id": 14, "name": "Lupus", "3dpath": "assets/3dmodels/test1/wolf1.glb", "2dpath": "", "description": "A wild wolf roaming the forest lands."}
+]

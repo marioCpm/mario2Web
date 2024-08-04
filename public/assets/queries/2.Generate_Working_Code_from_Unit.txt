@@ -1,0 +1,42 @@
+
+Generate a complete and practical coding tutorial from a unit's JSON description. The tutorial should consist of structured sessions that guide a beginner through the entire coding process, from setting up the environment to developing features and refining the code. Each session should contain a mix of code snippets, explanatory text, and interactive questions designed to reinforce understanding and practical application of the concepts.
+please make sure the tutorial is rich, and including at least 5 sessions and at least 8 steps for each session.
+Input: { "unit": "{"title":"Advanced Mathematical Functions","concepts":["lib imports","matematical operations","Error handling"],"objective":"Develop a complete calculator feature that includes 3 advanced mathematical functions."}" }
+Output: 
+{ 
+  "code": "<complete generated code snippet>",
+  "sessions": [
+    {
+      "sessionTitle": "Setup - Preparing Your Environment",
+      "steps": [
+        {"content": "Install necessary software/tools.", "type": "info"},
+        {"content": "Here's how you set up your development environment...", "type": "code", "codeSnippet": "<code for setup>"},
+        {"content": "Why is it important to configure your environment before starting?", "type": "question", "options": ["Option A", "Option B", "Correct Answer", "Option D"]}
+      ]
+    },
+    {
+      "sessionTitle": "Develop - Building the Core Features",
+      "steps": [
+        {"content": "Start by creating the main function.", "type": "info"},
+        {"content": "<code for main function>", "type": "code"},
+        {"content": "What does this function do?", "type": "question", "options": ["Option A", "Correct Answer", "Option C", "Option D"]}
+      ]
+    },
+    {
+      "sessionTitle": "Enrich - Adding Advanced Features",
+      "steps": [
+        {"content": "Now, let's add more sophisticated features like...", "type": "info"},
+        {"content": "<code for advanced features>", "type": "code"},
+        {"content": "How do these features enhance the functionality?", "type": "question", "options": ["Correct Answer", "Option B", "Option C", "Option D"]}
+      ]
+    },
+    {
+      "sessionTitle": "Conclude - Final Touches and Testing",
+      "steps": [
+        {"content": "Ensure all components work together seamlessly.", "type": "info"},
+        {"content": "<code for integration and testing>", "type": "code"},
+        {"content": "What tests should you perform to verify functionality?", "type": "question", "options": ["Option A", "Option B", "Option C", "Correct Answer"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+Generate detailed session plans based on the provided unit specification, 
+ensuring that each session clearly outlines its objectives and activities,
+ along with step-by-step instructions that are easy for users to understand.
+ Integrate the provided code into the relevant steps,
+ensuring eventually it covers exactly the code as provided.
+Include educational content for each code snippet that explains its purpose and how it fits into the session's activities, aiming to enhance comprehension and application.
+please make few sessions, and few steps for each session.
+please make sure the code examples in the steps are fully covering the entire code provided here.
+write only the json results. 
+Input: 
+{ 
+  "unitSpec": "{"title":"Advanced Mathematical Functions","concepts":["Math module in Python","Implementing functions like square root, exponentiation","Error handling"],"prerequisites":["Completion of Basic Arithmetic Calculator unit","Familiarity with Python's math module"],"objective":"Develop a complete calculator feature that includes advanced mathematical functions like square root and power calculations."}", 
+  "code": import math
+
+def advanced_math_calculator():
+    print("Advanced Mathematical Functions Calculator")
+    while True:
+        print("\nOptions:")
+        print("1. Square Root")
+        print("2. Exponentiation")
+        print("3. Exit")
+        try:
+            choice = int(input("Choose an operation: "))
+            if choice == 1:
+                number = float(input("Enter a number to find the square root: "))
+                if number < 0:
+                    raise ValueError("Cannot compute square root of negative number")
+                result = math.sqrt(number)
+                print(f"The square root of {number} is {result}")
+            elif choice == 2:
+                base = float(input("Enter the base number: "))
+                exponent = float(input("Enter the exponent: "))
+                result = math.pow(base, exponent)
+                print(f"The result of {base} raised to the power of {exponent} is {result}")
+            elif choice == 3:
+                print("Exiting the calculator.")
+                break
+            else:
+                print("Invalid choice. Please select a valid option.")
+        except ValueError as e:
+            print(f"Error: {e}")
+
+# Run the calculator
+advanced_math_calculator()
+}
+Output: 
+{ 
+  "sessions": [
+    {
+      "sessionTitle": "<session title>", 
+      "description": "<detailed activities>", 
+      "objectives": ["<specific goal1>", "<specific goal2>", ...], 
+      "detailedSteps": [
+        {
+          "stepTitle": "<step title>", 
+          "instruction": "<clear, concise instruction>", 
+          "exampleCode": "<exact code snippet from 'codeSnippets' referenced by identifier>", 
+          "codeExplanation": "<detailed explanation of how the code works and its relevance to achieving the session objectives>"
+        }
+      ]
+    }
+  ]
+}
+

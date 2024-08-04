@@ -1,0 +1,22 @@
+please describe a step by step guide for developing a python project of calculator. make every step as simple as possible. include 30+ steps, include questions for deeper understanding.
+the steps should be divided to several sessions. each session should have a topic, and training goals, focus on programming, skip setup and installations.
+provide also the full code. 
+here is the final structure of the response along with descriptions for every key:
+
+{exercise_name, sessions: [{session_name, description,learning_goals:[], steps: [{step_title, step_message,snippet}], questions: [{question:"",options:[],correctAnswer:""}]}]}
+
+please write only the json results. 
+
+exercise_name: Defines the overall name or title of the project, short and cool name.
+sessions: An array containing multiple session objects, each representing a different part of the exercise.
+session_name: The title of the session, usually thematic or goal-oriented.
+description: A summary that outlines the focus and scope of the session.
+learning_goals: A list detailing what skills or knowledge the learner is expected to acquire.
+steps: A sequence of detailed directives guiding the learner through the session's activities.
+step_title: Names the step, usually reflecting the action required or the concept being introduced.
+step_message: Provides the detailed instructions or context needed to understand and perform the step.
+snippet: Includes a relevant code snippet to aid in learning (optional but helpful).
+questions: Designed to test comprehension and reinforce key concepts of the session.
+question: A direct query related to the session's content.
+options: Possible answers for the learner to choose from, reinforcing learning through selection.
+correctAnswer: Specifies which option is correct, aiding in automated feedback or self-assessment.

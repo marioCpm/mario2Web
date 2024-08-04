@@ -1,0 +1,464 @@
+{
+    "sliderData": {
+        "list": [
+            "PROGRAMMING",
+            "DB STRUCTURE",
+            "WEB DEV",
+            "DESIGN & ",
+            "FRONT-END",
+            "BACK-END",
+            "MOBILE",
+            "PRODUCT",
+            "DEVOPS",
+            "Q.A.",
+            "CLOUD",
+            "A.I."
+        ],
+        "sentence": "The best way to deepen your expertise and unlock your full potential",
+        "SimplifiedTutorials": "2240",
+        "AddictedUsers": "1000"
+    },
+    "collectionData": {
+        "units1": [
+            {
+                "id": "321",
+                "topic": "Magic Number Game",
+                "imageUrl": null,
+                "description": "Create a simple game where users guess a random number between 1 and 100."
+            },
+            {
+                "id": "322",
+                "topic": "Personal Website",
+                "imageUrl": null,
+                "description": "Build a basic personal website with about, portfolio, and contact pages using HTML and CSS."
+            },
+            {
+                "id": "323",
+                "topic": "Weather Dashboard",
+                "imageUrl": null,
+                "description": "Create a dashboard that displays weather information using an API."
+            },
+            {
+                "id": "324",
+                "topic": "Blog Engine",
+                "imageUrl": null,
+                "description": "Develop a simple blog engine with posts and comments using a web framework."
+            },
+            {
+                "id": "325",
+                "topic": "AI Chatbot",
+                "imageUrl": null,
+                "description": "Build a chatbot using an AI platform to understand and respond to user queries."
+            },
+            {
+                "id": "326",
+                "topic": "E-commerce Backend",
+                "imageUrl": null,
+                "description": "Develop a full-featured backend for an e-commerce application handling products, users, and orders."
+            },
+            {
+                "id": "327",
+                "topic": "Calculator App",
+                "imageUrl": null,
+                "description": "Design a simple calculator app that performs basic arithmetic operations."
+            },
+            {
+                "id": "328",
+                "topic": "Task Tracker",
+                "imageUrl": null,
+                "description": "Build a task management application to add, delete, and update tasks."
+            },
+            {
+                "id": "329",
+                "topic": "Real-time Chat Application",
+                "imageUrl": null,
+                "description": "Create a real-time chat application where users can send messages instantly."
+            },
+            {
+                "id": "338",
+                "topic": "Birthday Countdown",
+                "imageUrl": null,
+                "description": "Write a program that counts down the days until the user's next birthday."
+            }
+        ],
+        "units2": [
+            {
+                "id": "339",
+                "topic": "Grocery List Organizer",
+                "imageUrl": null,
+                "description": "Develop a simple application to add, remove, and list grocery items."
+            },
+            {
+                "id": "340",
+                "topic": "Expense Tracker",
+                "imageUrl": null,
+                "description": "Create a program to track expenses and provide a total amount spent."
+            },
+            {
+                "id": "341",
+                "topic": "Simple Interest Calculator",
+                "imageUrl": null,
+                "description": "Program a calculator to compute simple interest from principal, rate, and time."
+            },
+            {
+                "id": "342",
+                "topic": "Unit Converter",
+                "imageUrl": null,
+                "description": "Develop a tool that converts units like kilometers to miles, kilograms to pounds, etc."
+            },
+            {
+                "id": "343",
+                "topic": "Number Guessing Game",
+                "imageUrl": null,
+                "description": "A game where the computer randomly selects a number and the user has to guess it."
+            },
+            {
+                "id": "344",
+                "topic": "Pet Simulator",
+                "imageUrl": null,
+                "description": "Develop a virtual pet simulator where users can feed, play with, and care for a digital pet."
+            },
+            {
+                "id": "345",
+                "topic": "Superhero Name Generator",
+                "imageUrl": null,
+                "description": "Build a fun tool that generates superhero names based on user inputs."
+            },
+            {
+                "id": "346",
+                "topic": "Alien Invasion Game",
+                "imageUrl": null,
+                "description": "Create a simple 2D shooter game where players must defend the earth from an alien invasion."
+            },
+            {
+                "id": "347",
+                "topic": "Magic 8 Ball",
+                "imageUrl": null,
+                "description": "Implement a magic 8 ball simulator that provides random responses to user questions."
+            },
+            {
+                "id": "348",
+                "topic": "Dungeon Escape Game",
+                "imageUrl": null,
+                "description": "Build a text-based dungeon escape game where players choose paths to try and escape."
+            }
+        ]
+    },
+    "AboutData": "At Galenai, we revolutionize learning by integrating practical, immediate, and interactive educational experiences. Our AI-driven platform tailors real-world skills directly to your personal and professional goals, making learning not just effective but truly engaging. We're dedicated to making continuous education accessible and enjoyable, enabling you to apply new knowledge instantly in everyday scenarios.",
+    "howToUseData": {
+        "steps": [
+            {
+                "topic": "SIGN UP",
+                "description": "Register and create your personal profile to start your learning journey."
+            },
+            {
+                "topic": "SELECT A COURSE",
+                "description": "Choose a course from a variety of Trails and Steps tailored to enhance your skills."
+            },
+            {
+                "topic": "ENGAGE WITH CONTENT",
+                "description": "Engage with interactive tutorials and practical tasks in the Electron app."
+            },
+            {
+                "topic": "TRACK YOUR PROGRESS",
+                "description": "Monitor your progress, earn badges, and review your achievements in your profile."
+            }
+        ]
+    },
+    "PlansData": {
+        "plans": [
+            {
+                "topic": "Free",
+                "keys": "10",
+                "description": "No credit card needed",
+                "points": [
+                    "10 Monthly keys",
+                    "Access 100+ Units"
+                ],
+                "price_m": "0.00",
+                "price_y": "0.00",
+                "buttonTxt": "SIGN UP FOR FREE"
+                
+            },
+            {
+                "topic": "Basic",
+                "keys": "50",
+                "description": "Perfect choice for getting started",
+                "points": [
+                    "50 Monthly keys",
+                    "Access 1000+ Units"
+                ],
+                "price_m": "5.90",
+                "price_y": "39.00",
+                "buttonTxt": "Upgrade plan"
+            },
+            {
+                "topic": "Pro",
+                "keys": "200",
+                "description": "Unlock galenai full potential",
+                "points": [
+                    "Unlimited keys",
+                    "Access Unlimited Units"
+                ],
+                "price_m": "11.90",
+                "price_y": "79.00",
+                "buttonTxt": "Become pro"
+            }
+        ],
+        "keys": [
+            {
+                "keys": "50",
+                "price": "10"
+            },
+            {
+                "keys": "100",
+                "price": "18"
+            },
+            {
+                "keys": "200",
+                "price": "30"
+            },
+            {
+                "keys": "500",
+                "price": "50"
+            }
+        ]
+    },
+    "StackData": {
+        "stack1": [
+            {
+                "id": 172,
+                "title": "Python",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            },
+            {
+                "id": 173,
+                "title": "HTML",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            },
+            {
+                "id": 174,
+                "title": "CSS",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            },
+            {
+                "id": 175,
+                "title": "JavaScript",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            },
+            {
+                "id": 176,
+                "title": "Ruby",
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"
+            },
+            {
+                "id": 177,
+                "title": "SQLite",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+            },
+            {
+                "id": 178,
+                "title": "TensorFlow",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+            },
+            {
+                "id": 179,
+                "title": "Node.js",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            },
+            {
+                "id": 180,
+                "title": "Express",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            },
+            {
+                "id": 181,
+                "title": "MongoDB",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            },
+            {
+                "id": 182,
+                "title": "React",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            }
+        ],
+        "stack2": [
+            {
+                "id": 183,
+                "title": "Socket.io",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+            },
+            {
+                "id": 184,
+                "title": "Java",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+            },
+            {
+                "id": 186,
+                "title": "NumPy",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+            },
+            {
+                "id": 187,
+                "title": "Raspberry Pi",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+            },
+            {
+                "id": 188,
+                "title": "Google Speech API",
+                "icon": "https://w7.pngwing.com/pngs/974/464/png-transparent-google-voice-search-logo-google-voice-search-web-search-engine-google-now-google-microphone-search-engine-optimization-logo.png"
+            },
+            {
+                "id": 189,
+                "title": "C++",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+            },
+            {
+                "id": 190,
+                "title": "OpenGL",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"
+            },
+            {
+                "id": 191,
+                "title": "Keras",
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"
+            },
+            {
+                "id": 192,
+                "title": "Dart",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+            },
+            {
+                "id": 193,
+                "title": "Flutter",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+            },
+            {
+                "id": 194,
+                "title": "VS Code",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+            },
+            {
+                "id": 195,
+                "title": "Chrome DevTools",
+                "icon": "https://www.google.com/chrome/static/images/chrome-logo.svg"
+            },
+            {
+                "id": 196,
+                "title": "SQL",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnCA-B2MSnNNyZla6G_DVyzHPnuIUOu_QLPw&s"
+            },
+            {
+                "id": 197,
+                "title": "AWS",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8Rka1v8o3ekxyDh5msbmBxxY-ob47bhGPw&s"
+            }
+        ],
+        "stack3": [
+            {
+                "id": 208,
+                "title": "Linux",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+            },
+            {
+                "id": 210,
+                "title": "Azure",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+            },
+            {
+                "id": 211,
+                "title": "Google Cloud",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+            },
+            {
+                "id": 217,
+                "title": "iOS",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
+            },
+            {
+                "id": 218,
+                "title": "Android",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+            },
+            {
+                "id": 220,
+                "title": "HTML5",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            },
+            {
+                "id": 221,
+                "title": "Unreal",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"
+            },
+            {
+                "id": 222,
+                "title": "Pygame",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            },
+            {
+                "id": 223,
+                "title": "Arduino",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+            },
+            {
+                "id": 225,
+                "title": "C#",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+            },
+            {
+                "id": 226,
+                "title": ".NET",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+            },
+            {
+                "id": 229,
+                "title": "Unity",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+            },
+            {
+                "id": 231,
+                "title": "p5.js",
+                "icon": "https://p5js.org/assets/img/p5js.svg"
+            },
+            {
+                "id": 232,
+                "title": "Three.js",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+            }
+        ]
+    },
+    "FaqData":{
+        "faq2": [
+            {
+                "q": "What Types Of Courses Does Galenai Offer?",
+                "a": "Galenai offers a variety of courses ranging from beginner to advanced levels in fields such as programming, graphic design, AI tools, and more. Each course is designed to be practical and engaging to maximize learning."
+            },
+            {
+                "q": "Can I Access Galenai Courses On My Mobile Device?",
+                "a": "Yes, Galenai is fully accessible on mobile devices, allowing you to learn on-the-go. The mobile interface is optimized for a seamless learning experience, adapting to different screen sizes and orientations."
+            },
+            {
+                "q": "What Are The Payment Options For Galenai Courses?",
+                "a": "Galenai offers various payment options, including credit card, PayPal, and Galena tokens. Flexible payment plans are also available to make learning accessible for everyone."
+            }
+    ],
+    "faq1": [
+        {
+            "q": "What Is Galenai?",
+            "a": "Galenai is an educational platform that provides AI-made tutorials focusing on a wide range of skills including coding, designing, and mastering AI tools."
+        },
+        {
+            "q": "How Can I Start Learning On Galenai?",
+            "a": "Begin by signing up and exploring the gallery of courses. Select any course to start learning through interactive and step-by-step tutorials in our dedicated app."
+        },
+        {
+            "q": "What Makes Galenai Unique?",
+            "a": "Galenai combines hands-on learning with AI-driven content to provide a personalized and effective learning experience, tailored to enhance your skills in technology and design."
+        }
+    ]
+},
+    "footerData":{
+    "footer1Topic": "EXPLORE NEW HORIZONS",
+    "footer1Description": "Unlock exclusive features and content with your upgraded plan. Don’t miss out!",
+    "footer": "Harness the power of focused learning, maximize your time for life's real priorities."}
+}

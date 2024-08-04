@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "galenaiWebsite",
+            "type": "shell",
+            "command": "set NODE_TLS_REJECT_UNAUTHORIZED=0 | npm run dev 2>&1 | tee galenaiWebsite_output.log",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "problemMatcher": [],
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        }
+    ]
+}

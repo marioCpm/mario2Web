@@ -1,0 +1,4 @@
+For a session JSON that includes the steps and additional session data, generate several multiple-choice questions (American-style). Each question should include the question text, four answer options, hints, and specific instructions on where to position them within the session steps.
+
+Input: { "session": "<session JSON with steps>" }
+Output: { "questions": [{"question": "<question text>", "options": ["<option1>", "<option2>", "<option3>", "<option4>"], "hints": "<hints>", "position": "<step number>"}]}

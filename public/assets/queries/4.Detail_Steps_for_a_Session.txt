@@ -1,0 +1,4 @@
+Using a session JSON that includes the session's explanation, title, and goals, generate a sequence of smaller, user-friendly steps that guide the user towards achieving the session goals.
+
+Input: { "session": "<session JSON>" }
+Output: { "steps": [{"step": "<detailed step>", "instruction": "<user-friendly instruction>"}]}
